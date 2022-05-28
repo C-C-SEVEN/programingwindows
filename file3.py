@@ -25,9 +25,6 @@ Change #>>> type(1)
 >>> type(0.4)
 <class 'float'>
 
-<<<<<<< HEAD
->>> type(-233.5)
-=======
 >>> type(-23.5)
 <class 'float'>
 
@@ -35,5 +32,4 @@ Change #>>> type(1)
 <class 'float'>
 
 >>> type(-25.3)
->>>>>>> main
 <class 'float'>
