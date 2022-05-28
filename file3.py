@@ -27,18 +27,3 @@ Change #>>> type(1)
 
 >>> type(-23.5)
 <class 'float'>
-
->>> type(32.5)
-<class 'float'>
-
->>> type(-25.3)
-<class 'float'>
-
->>> type(213.5)
-<class 'float'>
-
->>> type(324.5)
-<class 'float'>
-
->>> type(-2542.3)
-<class 'float'>
