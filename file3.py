@@ -30,3 +30,6 @@ Change #>>> type(1)
 
 >>> type(32.5)
 <class 'float'>
+
+>>> type(-25.3)
+<class 'float'>
