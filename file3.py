@@ -27,3 +27,7 @@ Change #>>> type(1)
 
 >>> type(-23.5)
 <class 'float'>
+
+type (float)
+int(as)
+<class 'float'>
